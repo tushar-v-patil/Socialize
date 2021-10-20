@@ -10,12 +10,16 @@ User need to log in before accesing the post screen.
 
 ![Screenshot (78)](https://user-images.githubusercontent.com/68781168/131816901-0d49c03a-3b17-4f95-b7e9-249f26d6bd62.png)
 
+# Chooser
+
+![Screenshot (88)](https://user-images.githubusercontent.com/68781168/138129129-252f75f4-ce1f-4e74-b476-d2ab5c4b2855.png)
+
 # Posts Screen
 This screen will show all the posts created by all the users of the app. And we can also like the posts and check the timing too. The "Plus" button will take us to create post screen.
 
-![Screenshot (79)](https://user-images.githubusercontent.com/68781168/131816850-feda708d-3ab1-4c25-881c-44be7aff818d.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/68781168/138129184-e9406040-92d6-470f-95eb-046186dadfbf.png)
 
 # Create Post Screen
 On this screen, we have to share our thoughts and press post button in order to share with all the users of the App.
 
-![Screenshot (80)](https://user-images.githubusercontent.com/68781168/131816756-72d702b9-cb53-4136-a047-2bac8d526453.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/68781168/138129146-95a56819-8090-43bd-bfc5-48d494e0df90.png)
